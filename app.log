@@ -1,0 +1,38 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 618-169-130
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 618-169-130
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 618-169-130
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 14:00:46] "OPTIONS /api/reservaciones/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 14:00:46] "GET /api/reservaciones/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 14:39:26] "OPTIONS /api/reservaciones/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 14:39:26] "[35m[1mPOST /api/reservaciones/ HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 14:39:26] "OPTIONS /api/reservaciones/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 14:39:26] "GET /api/reservaciones/ HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 618-169-130
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 14:51:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 14:51:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 17:23:22] "OPTIONS /api/reservaciones/4 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 17:23:22] "DELETE /api/reservaciones/4 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 17:23:22] "OPTIONS /api/reservaciones/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 17:23:22] "GET /api/reservaciones/ HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\misarchivos2024\\CodoaCodo\\ejemplosProyectos\\lgmhotels\\backend\\env\\run.py', reloading
+INFO:werkzeug: * Restarting with stat

@@ -1,0 +1,52 @@
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 333-149-186
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 618-169-130
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 10:47:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 10:47:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 10:47:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 10:47:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 10:47:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 10:50:02] "[32mGET /api/reservaciones HTTP/1.1[0m" 308 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 10:50:02] "GET /api/reservaciones/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 11:42:31] "[33mGET /api/crud HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 11:42:39] "[33mGET /api/rservaciones HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 11:42:42] "[33mGET /api/rservaciones HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 11:44:24] "OPTIONS /api/reservaciones/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 11:44:24] "GET /api/reservaciones/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 11:44:42] "OPTIONS /api/reservaciones/3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 11:44:42] "GET /api/reservaciones/3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 11:44:50] "OPTIONS /api/reservaciones/3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 11:44:50] "PUT /api/reservaciones/3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 11:44:50] "OPTIONS /api/reservaciones/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 11:44:50] "GET /api/reservaciones/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 11:47:39] "OPTIONS /api/reservaciones/3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 11:47:39] "PUT /api/reservaciones/3 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 11:47:39] "OPTIONS /api/reservaciones/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 11:47:39] "GET /api/reservaciones/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 11:48:18] "OPTIONS /api/reservaciones/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 11:48:18] "GET /api/reservaciones/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Jul/2024 11:49:01] "OPTIONS /api/reservaciones/ HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 618-169-130
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 618-169-130
+INFO:werkzeug: * Detected change in 'C:\\misarchivos2024\\CodoaCodo\\ejemplosProyectos\\lgmhotels\\backend\\env\\run.py', reloading
+INFO:werkzeug: * Restarting with stat
